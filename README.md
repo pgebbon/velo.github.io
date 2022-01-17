@@ -1,2 +1,2 @@
-# velocab.github.io
+# velocab
 My Velo Cab
